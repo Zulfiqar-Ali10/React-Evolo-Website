@@ -3,7 +3,7 @@ import React from 'react';
 export default function RequestForm() {
     return (
         <>
-            <div id="request" className="form-1">
+            <div id='navbar-main' className="form-1">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6">

@@ -4,7 +4,7 @@ export default function PricingOptions() {
     return (
         <>
         
-            <div id="pricing" className="cards-2">
+            <div  className="cards-2" id="navbar-main">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-12">

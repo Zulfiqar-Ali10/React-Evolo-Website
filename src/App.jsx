@@ -1,40 +1,25 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
-import Navbar from './Components/Navbar'
-import Header from './Components/Header'
-import BusinessServices from './Components/BusinessServices'
-import Trusted from './Components/Trusted'
-import Services1 from './Components/Services1'
-import Services2 from './Components/Services2'
-import PricingOptions from './Components/PricingOptions'
-import RequestForm from './Components/RequestForm'
-import CheckVideo from './Components/CheckVideo'
-import Testimonials from './Components/Testimonials'
-import AboutForm from './Components/AboutForm'
-import ContactInformation from './Components/ContactInformation'
-import Footer from './Components/Footer'
-
+import { Route, Routes } from 'react-router-dom'
+import Home from './Components/Home'
+import AboutUs from './Pages/Aboutus'
+import Services from './Pages/Services'
+import Pricing from './Pages/Pricing'
+import Request from './Pages/Request'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-    <Navbar />
-    <Header />
-    <Trusted/>
-    <BusinessServices/>
-    <Services1/>
-    <Services2/>
-    <PricingOptions/>
-    <RequestForm />
-    <CheckVideo/>
-    <Testimonials/>
-    <AboutForm/>
-    <ContactInformation/>
-    <Footer/>
+     
+  <Routes>
+    <Route path='/' element={<Home/>} />
+    <Route path='/services' element={<Services/>} />
+    <Route path='/pricing' element={<Pricing/>} />
+    <Route path='/request' element={<Request/>} />
+    <Route path='/aboutus' element={<AboutUs/>} />
+  </Routes>
 
 
     </>

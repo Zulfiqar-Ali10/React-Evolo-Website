@@ -3,7 +3,7 @@ import React from 'react'
 export default function BusinessServices() {
     return (
         <>
-            <div id="services" class="cards-1">
+            <div id="navbar-main" class="cards-1">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
