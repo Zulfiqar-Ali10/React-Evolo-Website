@@ -8,7 +8,7 @@ export default function Navbar() {
       <nav className="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top" >
         
         
-        <a className="navbar-brand logo-image" href="index.html"><img src="./src/images/logo.svg" alt="alternative" /></a>
+        <a className="navbar-brand logo-image" href="index.html"><img src="/images/logo.svg" alt="alternative" /></a>
         
        
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
