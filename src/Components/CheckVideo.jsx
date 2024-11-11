@@ -15,7 +15,7 @@ export default function CheckVideo() {
                             <div className="image-container">
                                 <div className="video-wrapper">
                                     <a className="popup-youtube" href="https://www.youtube.com/watch?v=fLCjQJCekTs" data-effect="fadeIn">
-                                        <img className="img-fluid" src="./src/images/video-frame.svg" alt="alternative" />
+                                        <img className="img-fluid" src="/images/video-frame.svg" alt="alternative" />
                                         <span className="video-play-button">
                                             <span></span>
                                         </span>

@@ -15,22 +15,22 @@ export default function Trusted() {
                                     <div className="swiper-wrapper">
                                         <div className="swiper-slide">
                                             <div className="image-container">
-                                                <img className="img-responsive" src="./src/images/customer-logo-1.png" alt="alternative"/>
+                                                <img className="img-responsive" src="/images/customer-logo-1.png" alt="alternative"/>
                                             </div>
                                         </div>
                                         <div className="swiper-slide">
                                             <div className="image-container">
-                                                <img className="img-responsive" src="./src/images/customer-logo-2.png" alt="alternative"/>
+                                                <img className="img-responsive" src="/images/customer-logo-2.png" alt="alternative"/>
                                             </div>
                                         </div>
                                         <div className="swiper-slide">
                                             <div className="image-container">
-                                                <img className="img-responsive" src="./src/images/customer-logo-3.png" alt="alternative"/>
+                                                <img className="img-responsive" src="/images/customer-logo-3.png" alt="alternative"/>
                                             </div>
                                         </div>
                                         <div className="swiper-slide">
                                             <div className="image-container">
-                                                <img className="img-responsive" src="./src/images/customer-logo-4.png" alt="alternative"/>
+                                                <img className="img-responsive" src="/images/customer-logo-4.png" alt="alternative"/>
                                             </div>
                                         </div>
                                         <div className="swiper-slide">
@@ -40,7 +40,7 @@ export default function Trusted() {
                                         </div>
                                         <div className="swiper-slide">
                                             <div className="image-container">
-                                                <img className="img-responsive" src="./src/images/customer-logo-6.png" alt="alternative" />
+                                                <img className="img-responsive" src="/images/customer-logo-6.png" alt="alternative" />
                                             </div>
                                         </div>
                                     </div>

@@ -8,7 +8,7 @@ export default function Services2() {
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-container">
-                        <img class="img-fluid" src="./src/images/details-2-office-team-work.svg" alt="alternative" />
+                        <img class="img-fluid" src="/images/details-2-office-team-work.svg" alt="alternative" />
                     </div> 
                 </div> 
                 <div class="col-lg-6">

@@ -22,7 +22,7 @@ export default function AboutForm() {
                 <div className="image-wrapper">
                   <img
                     className="img-fluid"
-                    src="./src/images/team-member-1.svg"
+                    src="/images/team-member-1.svg"
                     alt="Lacy Whitelong, Business Developer"
                   />
                 </div> {/* end of image-wrapper */}
@@ -49,7 +49,7 @@ export default function AboutForm() {
                 <div className="image-wrapper">
                   <img
                     className="img-fluid"
-                    src="./src/images/team-member-2.svg"
+                    src="/images/team-member-2.svg"
                     alt="Chris Brown, Online Marketer"
                   />
                 </div> {/* end of image-wrapper */}
@@ -76,7 +76,7 @@ export default function AboutForm() {
                 <div className="image-wrapper">
                   <img
                     className="img-fluid"
-                    src="./src/images/team-member-3.svg"
+                    src="/images/team-member-3.svg"
                     alt="Sheila Zimerman, Software Engineer"
                   />
                 </div> {/* end of image-wrapper */}
@@ -103,7 +103,7 @@ export default function AboutForm() {
                 <div className="image-wrapper">
                   <img
                     className="img-fluid"
-                    src="./src/images/team-member-4.svg"
+                    src="/images/team-member-4.svg"
                     alt="Mary Villalonga, Product Manager"
                   />
                 </div> {/* end of image-wrapper */}

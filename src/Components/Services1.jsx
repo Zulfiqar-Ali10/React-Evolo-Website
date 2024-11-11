@@ -15,7 +15,7 @@ export default function Services1() {
                 </div> 
                 <div className="col-lg-6">
                     <div className="image-container">
-                        <img className="img-fluid" src="./src/images/details-1-office-worker.svg" alt="alternative" />
+                        <img className="img-fluid" src="/images/details-1-office-worker.svg" alt="alternative" />
                     </div> 
                 </div>
             </div>

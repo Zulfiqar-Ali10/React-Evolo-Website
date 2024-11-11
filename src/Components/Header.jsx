@@ -16,7 +16,7 @@ export default function Header() {
                     </div> 
                     <div className="col-lg-6">
                         <div className="image-container">
-                            <img className="img-fluid" src="./src/images/header-teamwork.svg" alt="alternative" />
+                            <img className="img-fluid" src="/images/header-teamwork.svg" alt="alternative" />
                         </div> 
                     </div>
                 </div>

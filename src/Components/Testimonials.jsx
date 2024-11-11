@@ -13,7 +13,7 @@ export default function Testimonials() {
               <div className="image-container">
                 <img
                   className="img-fluid"
-                  src="./src/images/testimonials-2-men-talking.svg"
+                  src="/images/testimonials-2-men-talking.svg"
                   alt="alternative"
                 />
               </div>
@@ -30,7 +30,7 @@ export default function Testimonials() {
                       <div className="card">
                         <img
                           className="card-image"
-                          src="./src/images/testimonial-1.svg"
+                          src="/images/testimonial-1.svg"
                           alt="alternative"
                         />
                         <div className="card-body">
@@ -68,7 +68,7 @@ export default function Testimonials() {
                       <div className="card">
                         <img
                           className="card-image"
-                          src="./src/images/testimonial-3.svg"
+                          src="/images/testimonial-3.svg"
                           alt="alternative"
                         />
                         <div className="card-body">
